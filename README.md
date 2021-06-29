@@ -1,2 +1,4 @@
-# bot-discord-xp
-Bot Discord avec système de niveaux (mongodb est obligatoire)
+# Information sur la config du bot
+Bonjour à tous je vous présente un bot très simple pour faire un système de level !
+Pré-requit :
+Une base de donnée mongodb 
